@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MyAppPortfolio</string>
-    <string name="my_nonodegree_apps">My Nonodegree Apps</string>
+    <string name="my_nanodegree_apps">My Nanodegree Apps</string>
     <string name="popular_movies">POPULAR MOVIES</string>
     <string name="stock_hawk">STOCK HAWK</string>
     <string name="build_it_bigger">BUILD IT BIGGER</string>

@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:textAlignment="center"
         android:textSize="@dimen/text_size_title"
-        android:text="@string/my_nonodegree_apps"
+        android:text="@string/my_nanodegree_apps"
         android:id="@+id/textView" />
 
     <Button
