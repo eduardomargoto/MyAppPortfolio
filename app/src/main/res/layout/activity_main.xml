@@ -22,52 +22,42 @@
         android:text="@string/popular_movies"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/margin_default"
-        android:background="@color/colorAccent"
-        android:onClick="openMyApp"/>
+        style="@style/MyButtonStyle"
+        />
 
     <Button
         android:id="@+id/bt_stock_hawk"
         android:text="@string/stock_hawk"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/margin_default"
-        android:background="@color/colorAccent"
-        android:onClick="openMyApp"/>
+        style="@style/MyButtonStyle"/>
 
     <Button
         android:id="@+id/bt_buid_it"
         android:text="@string/build_it_bigger"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/margin_default"
-        android:background="@color/colorAccent"
-        android:onClick="openMyApp"/>
+        style="@style/MyButtonStyle"/>
 
     <Button
         android:id="@+id/bt_app_material"
         android:text="@string/make_your_app_material"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/margin_default"
-        android:background="@color/colorAccent"
-        android:onClick="openMyApp"/>
+        style="@style/MyButtonStyle"/>
 
     <Button
         android:id="@+id/bt_go_ubiquitous"
         android:text="@string/go_ubiquitous"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/margin_default"
-        android:background="@color/colorAccent"
-        android:onClick="openMyApp"/>
+        style="@style/MyButtonStyle"/>
 
     <Button
         android:id="@+id/bt_my_own_app"
         android:text="@string/capstone_my_own_app"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/margin_default"
         android:background="@color/colorAccentDark"
-        android:onClick="openMyApp"/>
+        style="@style/MyButtonStyle"/>
 </LinearLayout>
