@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyAppPortfolio</string>
+    <string name="my_nonodegree_apps">My Nonodegree Apps</string>
+    <string name="popular_movies">POPULAR MOVIES</string>
+    <string name="stock_hawk">STOCK HAWK</string>
+    <string name="build_it_bigger">BUILD IT BIGGER</string>
+    <string name="make_your_app_material">MAKE YOUR APP MATERIAL</string>
+    <string name="go_ubiquitous">GO UBIQUITOUS</string>
+    <string name="capstone_my_own_app">CAPSTONE: MY OWN APP</string>
+
+    <string name="message_toask_click_open_app">This button will launch /project_name project</string>
+</resources>
