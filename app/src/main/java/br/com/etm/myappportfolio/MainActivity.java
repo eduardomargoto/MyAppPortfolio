@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void openMyApp(View view){
-        String app_name = "";
+        String app_name = "Undefined App name";
         switch (view.getId()){
             case R.id.bt_popular_movies:
                 app_name = getStringResource(R.string.popular_movies);
